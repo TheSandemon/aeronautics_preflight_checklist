@@ -1,0 +1,14 @@
+# Gradle build directories
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+bin/
+
+# Local cache dependencies
+/libs/
