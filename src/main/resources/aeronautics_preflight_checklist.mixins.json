@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.ladderstar.apc.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "DiagramScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
