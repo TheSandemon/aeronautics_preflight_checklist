@@ -89,4 +89,16 @@ publishMods {
         requires("create")
         requires("create-aeronautics")
     }
+
+    modrinth {
+        projectId = project.findProperty('modrinth_project_id') ?: System.getenv('MODRINTH_PROJECT_ID') ?: ""
+        accessToken = project.findProperty('modrinth_token') ?: System.getenv('MODRINTH_TOKEN') ?: ""
+
+        minecraftVersions.add(minecraft_version)
+        modLoaders.add("neoforge")
+
+        requires("create")
+        requires("create-aeronautics")
+    }
 }
+
