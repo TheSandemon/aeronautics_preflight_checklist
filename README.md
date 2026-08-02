@@ -29,4 +29,4 @@ The preflight menu simulates your ship's components at **max power/spin** to che
 ---
 
 ## 🤝 Contributing & Issues
-Issues, bug reports, and pull requests are welcome! Please open an issue on the GitHub issues tracker if you run into any bugs or have feature requests. For developer info or building from source, see the [DEVELOPER.md](file:///c:/Users/kylet/curseforge/minecraft/Instances/Technological%20Nomadic%20Adventures/aeronautics_preflight_checklist/DEVELOPER.md) guide.
+Issues, bug reports, and pull requests are welcome! Please open an issue on the GitHub issues tracker if you run into any bugs or have feature requests. For developer info or building from source, see the [DEVELOPER.md](DEVELOPER.md) guide.
